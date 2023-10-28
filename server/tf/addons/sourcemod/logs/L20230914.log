@@ -1,0 +1,17 @@
+L 09/14/2023 - 09:46:42: SourceMod log file session started (file "C:\db-server\server\tf\addons\sourcemod\logs\L20230914.log") (Version "1.11.0.6932")
+L 09/14/2023 - 09:46:42: [TF2Dodgeball.smx] Executing configuration file addons\sourcemod\configs\dodgeball\general.cfg
+L 09/14/2023 - 09:46:42: [TF2Dodgeball.smx] Executing configuration file addons\sourcemod\configs\dodgeball\tfdb_spacetube_a2_fix.cfg
+L 09/14/2023 - 09:46:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_flamethrower_burstammo") (value "0")
+L 09/14/2023 - 09:46:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_arena_use_queue") (value "0")
+L 09/14/2023 - 12:24:54: -------- Mapchange to tfdb_rocketbucks_v2 --------
+L 09/14/2023 - 12:24:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_flamethrower_burstammo") (value "25")
+L 09/14/2023 - 12:24:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_arena_use_queue") (value "1")
+L 09/14/2023 - 12:24:58: [TF2Dodgeball.smx] Executing configuration file addons\sourcemod\configs\dodgeball\general.cfg
+L 09/14/2023 - 12:24:58: [TF2Dodgeball.smx] Executing configuration file addons\sourcemod\configs\dodgeball\tfdb_rocketbucks_v2.cfg
+L 09/14/2023 - 12:24:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_flamethrower_burstammo") (value "0")
+L 09/14/2023 - 12:24:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_arena_use_queue") (value "0")
+L 09/14/2023 - 14:35:02: SourceMod log file session started (file "C:\db-server\server\tf\addons\sourcemod\logs\L20230914.log") (Version "1.11.0.6932")
+L 09/14/2023 - 14:35:02: [TF2Dodgeball.smx] Executing configuration file addons\sourcemod\configs\dodgeball\general.cfg
+L 09/14/2023 - 14:35:02: [TF2Dodgeball.smx] Executing configuration file addons\sourcemod\configs\dodgeball\tfdb_spacetube_a2_fix.cfg
+L 09/14/2023 - 14:35:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_flamethrower_burstammo") (value "0")
+L 09/14/2023 - 14:35:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_arena_use_queue") (value "0")

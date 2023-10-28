@@ -1,0 +1,18 @@
+L 08/24/2023 - 08:46:16: SourceMod error session started
+L 08/24/2023 - 08:46:16: Info (map "tfdb_spacetube_a2_fix") (file "C:\db-server\server\tf\addons\sourcemod\logs\errors_20230824.log")
+L 08/24/2023 - 08:46:16: [SM] Exception reported: Array index out-of-bounds (index 73, limit 66)
+L 08/24/2023 - 08:46:16: [SM] Blaming: bot.smx
+L 08/24/2023 - 08:46:16: [SM] Call stack trace:
+L 08/24/2023 - 08:46:16: [SM]   [1] Line 886, E:\Games\Steam\LANServer\Plugin Repositories\tf2db-advancedbot\bot.sp::OnStartTouchBot
+L 08/24/2023 - 08:46:22: [SM] Exception reported: Array index out-of-bounds (index 73, limit 66)
+L 08/24/2023 - 08:46:22: [SM] Blaming: bot.smx
+L 08/24/2023 - 08:46:22: [SM] Call stack trace:
+L 08/24/2023 - 08:46:22: [SM]   [1] Line 886, E:\Games\Steam\LANServer\Plugin Repositories\tf2db-advancedbot\bot.sp::OnStartTouchBot
+L 08/24/2023 - 08:46:24: [SM] Exception reported: Array index out-of-bounds (index 73, limit 66)
+L 08/24/2023 - 08:46:24: [SM] Blaming: bot.smx
+L 08/24/2023 - 08:46:24: [SM] Call stack trace:
+L 08/24/2023 - 08:46:25: [SM]   [1] Line 886, E:\Games\Steam\LANServer\Plugin Repositories\tf2db-advancedbot\bot.sp::OnStartTouchBot
+L 08/24/2023 - 08:46:27: [SM] Exception reported: Array index out-of-bounds (index 73, limit 66)
+L 08/24/2023 - 08:46:27: [SM] Blaming: bot.smx
+L 08/24/2023 - 08:46:27: [SM] Call stack trace:
+L 08/24/2023 - 08:46:27: [SM]   [1] Line 886, E:\Games\Steam\LANServer\Plugin Repositories\tf2db-advancedbot\bot.sp::OnStartTouchBot

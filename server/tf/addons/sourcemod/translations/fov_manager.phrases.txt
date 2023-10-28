@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"#FOV_Usage"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Usage: {lightgreen}sm_fov {orange}<value between {yellow}{1} {orange}and {yellow}{2}{orange}>"
+	}
+	
+	"#FOV_Error_Minimum"
+	{
+		"#format"	"{1:d}"
+		"en"		"The FOV must be greater than {lightgreen}{1}"
+	}
+	
+	"#FOV_Error_Maximum"
+	{
+		"#format"	"{1:d}"
+		"en"		"The FOV cannot be higher than {lightgreen}{1}"
+	}
+	
+	"#FOV_Set"
+	{
+		"#format"	"{1:d}"
+		"en"		"Set the FOV to {orange}{1}"
+	}
+	
+	"#FOV_Disabled"
+	{
+		"en"		"Turned {orange}off {default}Unrestricted FOV"
+	}
+	
+	"#FOV_Randomized"
+	{
+		"#format"	"{1:d}"
+		"en"		"Randomized the fov with the number of {1}"
+	}
+}

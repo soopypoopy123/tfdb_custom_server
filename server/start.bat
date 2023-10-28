@@ -1,0 +1,1 @@
+srcds -game tf -console -tickrate 128 -usercon  +game_type 0 +game_mode 1 +mapgroup mg_active +map tfdb_rocketbucks_v2

@@ -1,0 +1,5 @@
+L 04/22/2023 - 19:11:09: SourceMod log file session started (file "C:\db-server\server\tf\addons\sourcemod\logs\L20230422.log") (Version "1.11.0.6932")
+L 04/22/2023 - 19:11:09: [TF2Dodgeball.smx] Executing configuration file addons\sourcemod\configs\dodgeball\general.cfg
+L 04/22/2023 - 19:11:10: [TF2Dodgeball.smx] Executing configuration file addons\sourcemod\configs\dodgeball\tfdb_supremecourt_v4.cfg
+L 04/22/2023 - 19:11:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_flamethrower_burstammo") (value "0")
+L 04/22/2023 - 19:11:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_arena_use_queue") (value "0")
